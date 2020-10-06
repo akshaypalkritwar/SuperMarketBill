@@ -1,5 +1,5 @@
 from tkinter import *
-
+#root imported
 root = Tk()
 
 data = StringVar()
