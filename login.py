@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import os
 # import sys
-
+#import root
 root3 = Tk()
 root3.attributes('-fullscreen', True)
 root3.title("Supermarket System: Login")
